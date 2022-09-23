@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zgraceman
 - 👀 I’m interested in programming, watching sports, outdoor activities, and coffee!
-- 🌱 I’m currently learning Agile-Scrum methodologies, Jira, Java Collections, JDBC, and Java Networking.
+- 🌱 I’m currently learning Agile-Scrum methodologies, Jira, Java Collections, JDBC, Java Networking, and more!
 - 👨‍💻 I'm currently looking for work as an entry-level Software Developer!
 
 <!---
