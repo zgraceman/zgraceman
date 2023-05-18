@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zgraceman
 - 👀 I’m interested in programming, watching sports, outdoor activities, and coffee!
-- 🌱 I’m currently working on improving my skills and understanding in Spring Framework and REST API!
+- 🌱 I’m currently working on improving my skills and knowledge in Spring Framework and REST APIs!
 - 👨‍💻 I'm currently looking for work as an entry-level Software Developer!
 
 <!---
