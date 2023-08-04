@@ -1,6 +1,6 @@
 # Hello World, I'm Zach 👋
 
-A recent graduate in Computer Science and Software Engineering, I'm excited to dive into the world of full stack development. Detail-oriented, creative, and self-motivated, I thrive in technical challenges, delivering scalable and secure web applications. I'm proficient in Java, Spring Boot, and HTML, with experience in Python, and C++, Data Modeling, SQL, and much more.
+A recent graduate in Computer Science and Software Engineering, I'm excited to dive into the world of full stack web development. Detail-oriented, creative, and self-motivated, I thrive in technical challenges, delivering scalable and secure web applications. I'm proficient in Java, Spring Boot, and HTML, with experience using Python, C++, MySQL, JavaScript and much more.
 
 ```javascript
 const zach = {
