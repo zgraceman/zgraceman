@@ -15,15 +15,30 @@ const zach = {
 
 ## 🌱 I’m currently learning ...
 
-- Web development lifecycle
-- Application architecture
-- Code review & analysis
-- Testing methodologies and best practices
-- Complex problem-solving
+- Spring Boot Fundamentals: Building and deploying robust APIs.
+- Application Architecture: Understanding the separation of concerns, model-view-controller design, and best practices.
+- Data Persistence: Utilizing Spring Data JPA to interact with databases.
+- Exception Handling: Implementing effective error handling in APIs with customized exceptions.
+- Validation: Enhancing API input validation with @Valid, @Validated annotations, and exploring Hibernate Validator constraints.
+- Testing Methodologies: Writing unit and integration tests for Spring Boot applications, focusing on service and repository layers.
+
+## 🔍 On my horizon ...
+
+- Frontend Basics & Framework: Dive into frontend fundamentals for visualizing backend data.
+- Web Security & API Authentication: Bolster app security with authentication mechanisms and authorization layers.
+- API Documentation: Implement efficient API documentation tools like Swagger/OpenAPI.
+- Database Migrations: Adapt to evolving data structures and ensure smooth database updates.
+- Profiles: Manage configurations for various deployment/testing scenarios.
+- Caching: Enhance app performance through efficient caching mechanisms.
+- Continuous Integration/Continuous Deployment (CI/CD): Automate build, test, and deployment for streamlined development.
+- Cloud Deployment: Explore deploying apps on leading cloud platforms like AWS, Azure, or Google Cloud.
+- Containerization: Ensure consistent app deployments across environments.
+- Microservices: Design and deploy modular and scalable microservices.
 
 ## 👨‍💻 Some of my projects
 
 - **Medical Care Booking System**: Developed a full stack application that enables patients to book appointments based on symptoms, location, and other factors. Utilized Java, Spring Boot, MySQL, Hibernate, HTML, CSS, and JavaScript.
+- **Spring-REST-API**: Developing a back-end dominant, full-stack Spring Boot application to master essential backend concepts, including data persistence with relational databases, exception handling, API design and documentation, and integration testing, while also gaining foundational knowledge of front-end integration to provide a comprehensive web development experience.
 
 ## 💼 Experience
 
