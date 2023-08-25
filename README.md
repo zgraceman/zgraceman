@@ -20,7 +20,7 @@ const zach = {
 - Data Persistence: Utilizing Spring Data JPA to interact with databases.
 - Exception Handling: Implementing effective error handling in APIs with customized exceptions.
 - Validation: Enhancing API input validation with @Valid, @Validated annotations, and exploring Hibernate Validator constraints.
-- Testing Methodologies: Writing unit and integration tests for Spring Boot applications, focusing on service and repository layers.
+- Testing Methodologies: Writing unit and integration tests for Spring Boot applications.
 
 ## 🔍 On my horizon ...
 
