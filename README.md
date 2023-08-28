@@ -37,8 +37,8 @@ const zach = {
 
 ## 👨‍💻 Some of my projects
 
-- **Medical Care Booking System**: Developed a full stack application that enables patients to book appointments based on symptoms, location, and other factors. Utilized Java, Spring Boot, MySQL, Hibernate, HTML, CSS, and JavaScript.
-- **Spring-REST-API**: Developing a back-end dominant, full-stack Spring Boot application to master essential backend concepts, including data persistence with relational databases, exception handling, API design and documentation, and integration testing, while also gaining foundational knowledge of front-end integration to provide a comprehensive web development experience.
+- **Patient Appointment Platform**: Developed a full stack application that enables patients to book appointments based on symptoms, location, and other factors. Utilized Java, Spring Boot, MySQL, Hibernate, HTML, CSS, and JavaScript.
+- **User Management System**: Developing a back-end dominant, full-stack Spring Boot application to master essential backend concepts, including data persistence with relational databases, exception handling, API design and documentation, and integration testing, while also gaining foundational knowledge of front-end integration to provide a comprehensive web development experience.
 
 ## 💼 Experience
 
