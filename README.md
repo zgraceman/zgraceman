@@ -42,7 +42,7 @@ const zach = {
 
 ## 💼 Experience
 
-- **Full Stack Java Development Student at Per Scholas** (2022 – 2023): Immersed in a rigorous and intensive program, gaining comprehensive exposure to a broad range of software tools, agile-scrum project methodologies, and full stack development using Java, Spring Boot, MySQL, Hibernate, and front-end technologies. Applied theoretical knowledge to execute a Full Stack Web Application case study, resulting in a Medical Care Booking System.
+- **Full Stack Java Development Student at Per Scholas** (2022 – 2023): Immersed in a rigorous and intensive program, gaining comprehensive exposure to a broad range of software tools, agile-scrum project methodologies, and full stack development using Java, Spring Boot, MySQL, Hibernate, and front-end technologies. Applied theoretical knowledge to execute a Full Stack Web Application case study, resulting in the Patient Appointment Platform project.
 - **Computer Science Undergraduate Student at Colorado State University Global** (2018 – 2022): Learned advanced programming concepts, OOP methodologies and developed visually compelling, data rich applications.
 - **Shift Manager at Jimmy John's** (2016 – 2022): Managed various shift duties, improved customer satisfaction, and streamlined operations.
 
