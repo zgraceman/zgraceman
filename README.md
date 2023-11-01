@@ -17,15 +17,13 @@ const zach = {
 
 - Spring Boot Fundamentals: Building and deploying robust APIs.
 - Application Architecture: Understanding the separation of concerns, model-view-controller design, and best practices.
-- Data Persistence: Utilizing Spring Data JPA to interact with databases.
 - Exception Handling: Implementing effective error handling in APIs with customized exceptions.
-- Validation: Enhancing API input validation with @Valid, @Validated annotations, and exploring Hibernate Validator constraints.
 - Testing Methodologies: Writing unit and integration tests for Spring Boot applications.
+- Web Security & API Authentication: Bolster app security with authentication mechanisms and authorization layers.
 
 ## 🔍 On my horizon ...
 
 - Frontend Basics & Framework: Dive into frontend fundamentals for visualizing backend data.
-- Web Security & API Authentication: Bolster app security with authentication mechanisms and authorization layers.
 - API Documentation: Implement efficient API documentation tools like Swagger/OpenAPI.
 - Database Migrations: Adapt to evolving data structures and ensure smooth database updates.
 - Profiles: Manage configurations for various deployment/testing scenarios.
